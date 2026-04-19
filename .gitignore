@@ -1,0 +1,29 @@
+## Build output
+bin/
+obj/
+publish/
+
+## IDE
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## NuGet
+packages/
+*.nupkg
+project.lock.json
+
+## OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+## Application runtime
+error_log.txt
+
+## Installer output
+installer_output/
